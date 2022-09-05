@@ -1,43 +1,50 @@
-# Diana Sapashova     Junior FE Web developer
+# Diana Sapashova |  Junior FE Web developer
+*** 
 ## Contacts
-* email: diana.zhetpisbaeva@gmail.com
-* tel: +7-771-390-5326
-* github: dianasapashova
-* discord: dianasapashova (@dianasapashova)
-* address: Shymkent, Kazakhstan
+* email: ___diana.zhetpisbaeva@gmail.com___
+* tel: ___+7-771-390-5326___
+* github: ___dianasapashova___
+* discord: ___dianasapashova (@dianasapashova)___
+* address: ___Shymkent, Kazakhstan___
+***
 
 ## Education 
-* Years: 2010 - 2012
-* Degree: Bachelor in Finance. 
-* Uneversity: Miras University in Shymkent
+* Years: ___09/2010 to 06/2012___
+* Degree: ___Bachelor in Finance.___
+* Uneversity: ___Miras University in Shymkent___
+***
 
 ## Professional Development Courses
-* Years: 01/2020 to 06/2020 (Student)
-* Program: Functional Testing 
-* School: Epam Training Center 
+* Years: ___01/2020 to 06/2020 (Student)___
+* Program: ___Functional Testing___
+* School: ___EPAM Training Center___ 
+***
 
-## RSSchool experinece:
-* JS/FE Pre-School 2022Q2 Stage 0 - only self-study 
-* JavaScript/Front-End 2022Q3 - ongoing
+## RSSchool experience:
+* __JS/FE Pre-School 2022Q2 Stage 0 - only self-study__
+* __JavaScript/Front-End 2022Q3 - ongoing__
+***
 
 ## Experience
-* EPAM SYSTEMS - branch in Kazakhstan branch.
-* Junior QA Testing Engineer, 07/2021 to 02/2022
-* Middle QA Testing Engineer, 03/2022 till now
+* __EPAM SYSTEMS - branch in Kazakhstan branch.__
+* __Junior QA Testing Engineer, 07/2021 to 02/2022__
+* __Middle QA Testing Engineer, 03/2022 till now__
+***
 
 ## Technology proficiencies
-1. Functional Testing
-2. Basic Software Development Methodologies
-3. Experienced models: Scrum, Kanban
-4. DB fundamentals: SQL, Mongo DB, Robo 3T
-5. Web Services Testing: Fiddler, Postman
-6. CI/CD Fundamentals: Jenkins
-7. VCS fundamentals: GitHub, GitBash
-8. Tracking System: Jira
-9. Programming language basics: HTML, CSS, JavaScript
+1. __Functional Testing__
+2. __Basic Software Development Methodologies__
+3. __Experienced models: Scrum, Kanban__
+4. __DB fundamentals: SQL, Mongo DB, Robo 3T__
+5. __Web Services Testing: Fiddler, Postman__
+6. __CI/CD Fundamentals: Jenkins__
+7. __VCS fundamentals: GitHub, GitBash__
+8. __Tracking System: Jira__
+9. __Programming language basics: HTML, CSS, JavaScript__
+***
 
 ## Languages
-* English - B2 (Assessment in EPAM)
+* __English - B2 (Assessment in EPAM)__
 * Russian - Native
 * Kazakh - Fluent
 * Turkish - Basic
