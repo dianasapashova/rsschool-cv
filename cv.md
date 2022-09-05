@@ -1,3 +1,4 @@
+![./Pic/image.png](./Pic/image.png) 
 # Diana Sapashova |  Junior FE Web developer
 *** 
 ## Contacts
