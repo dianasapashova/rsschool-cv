@@ -1,6 +1,7 @@
 ![./Pic/image.png](./Pic/image.png) 
 # Diana Sapashova |  Junior FE Web developer
 *** 
+
 ## Contacts
 * email: ___diana.zhetpisbaeva@gmail.com___
 * tel: ___+7-771-390-5326___
@@ -24,6 +25,7 @@
 ## RSSchool experience:
 * __JS/FE Pre-School 2022Q2 Stage 0 - only self-study__
 * __JavaScript/Front-End 2022Q3 - ongoing__
+* __Projects: CV_Markdown__
 ***
 
 ## Experience
