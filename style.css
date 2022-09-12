@@ -1,0 +1,35 @@
+.container { width: 1200px;
+    margin:0 auto;
+}
+.image{
+    width: 150px;
+    margin: 15px;
+    }
+.header{
+    padding: 5px 30px;
+    border: 2px;
+    box-shadow: 0 0 10px 0;
+    color: rgb(63, 81, 181);
+}
+.title {
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: italic;
+   font-size: 46px;
+   padding: 0 10px 10px;
+   color: #303240;
+}
+.info{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    padding:  5px 30px;
+    border: 2px;
+    border-color: #303240;
+    box-shadow: 0 0 15px 0;
+    margin-top: 15px;
+    color: #FAFAFC;
+    background-color: rgb(124, 175, 197) ;
+   
+
+}
